@@ -14,18 +14,24 @@ Marking events in your calendar is useful for keeping track of important events 
 List of features ready and TODOs for future development
 * Gathering events from Google Calendar
 * Sending an automatic Email response with either conflicts or a 5-day forecast
+* Automatic Login
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Custom Greetings based on location input
+* Detailed weather report
+* Automatic and Manual re-scheduling
 
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+> Simply run the robot. For first time set-up, you will be requested to input your Gmail account credentials.
+> You will be requested to input a location as well. (Address, city name, zip code, etc)
+> sit back and enjoy
 
 ## Contributors
 
-> 
+> Anthony Alexander Hernandez
+> Brownyn Davies
+> Guillermo Ventura-Reyes
 
 
